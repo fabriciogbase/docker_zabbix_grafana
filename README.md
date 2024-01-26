@@ -12,7 +12,7 @@
 
 1) Clone repo:
 ```
-git clone 
+git clone https://github.com/fabriciogbase/docker_zabbix_grafana.git
 cd zabbix-docker
 ```
 
